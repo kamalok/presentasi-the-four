@@ -2,6 +2,7 @@
 @ol
 - The Four (empat Besar)
 ---
+#Jika kalian tidak tahu gambar bukunya ini gambarnya
 ![flux explained](https://raw.githubusercontent.com/kamalok/presentasi-the-four/master/download.jpeg)
 
 --- 
