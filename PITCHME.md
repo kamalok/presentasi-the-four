@@ -29,7 +29,7 @@
 --- 
 ## Facebook
 @ol
-- Facebook yang sering kita tau ini adalah perusahaan yang paling sukes udah beberpa orang miliaransekitar 7,5 miliar orangdi dunia, dan 1,2 miliar setiap hari berhubungan dengan facebook.Fb messeger, fb ig adalah aplikasi yang paling dikenal dan populer di amerika serikat.Satu menit dari setiap lima menit kegiatan di telepon genggam facebok.
+- Facebook yang sering kita tau ini adalah perusahaan yang paling sukes udah beberpa orang miliaransekitar 7,5 miliar orangdi dunia, dan 1,2 miliar setiap hari berhubungan dengan facebook.
 
 ---
 ## Google
