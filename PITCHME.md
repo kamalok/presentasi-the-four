@@ -29,7 +29,7 @@
 ---
 ## APPLE
 @ol
-- Apple adalah logo yang tertera di laptop gadget paling diinginkan di dinia, adalah lambang kekayaan ,pendidikan, dan nilai-nilai barat secara global. Apple memiliki dua naluriah yang pertama dekat dengan tuhan dan menjadi lebih menarik ke lawan jenis. 
+- Apple adalah logo yang tertera di laptop gadget paling diinginkan di dunia, adalah lambang kekayaan ,pendidikan, dan nilai-nilai barat secara global. Apple memiliki dua naluriah yang pertama dekat dengan tuhan dan menjadi lebih menarik ke lawan jenis. 
 
 --- 
 ## Facebook
