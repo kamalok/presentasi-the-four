@@ -1,5 +1,5 @@
-# Kamal Oktaviana
-# Presentasi 
+## Kamal Oktaviana
+### Presentasi 
 @ol
 - The Four (empat Besar)
 - Karya Scott Galloway
