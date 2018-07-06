@@ -10,7 +10,8 @@ perusahaan terkenal di dunia yaitu Apple, Amazon, Facebook, Dan Google dan juga 
 menyediakan ratusan ribu pekerjaan bergaji tinggi. 
 
 ---
-## Empat Perusahaan The Four 
+## Empat Perusahaan Besar
+@ol
 - Amazon
 - Apple 
 - Facebook
