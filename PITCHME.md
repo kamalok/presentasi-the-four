@@ -1,7 +1,7 @@
 # Presentasi 
 @ol
--The Four (empat Besar)
--![flux explained](https://raw.githubusercontent.com/kamalok/presentasi-the-four/master/download.jpeg)
+- The Four (empat Besar)
+-- ![flux explained](https://raw.githubusercontent.com/kamalok/presentasi-the-four/master/download.jpeg)
 
 --- 
 
