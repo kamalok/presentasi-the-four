@@ -1,7 +1,7 @@
 # Presentasi 
 ### The Four (empat Besar)
-
---- ?image=https://raw.githubusercontent.com/kamalok/presentasi-the-four/master/download.jpeg
+?image=https://raw.githubusercontent.com/kamalok/presentasi-the-four/master/download.jpeg
+--- 
 
 ## The Four 
 Empat raksasa teknologi telah mencetuskan lebih banyak kebahagiaan, hubungan, kemakmuran, 
