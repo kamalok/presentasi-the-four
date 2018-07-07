@@ -10,7 +10,7 @@
 
 ## The Four 
 @ol
-- Empat raksasa teknologi telah mencetuskan lebih banyak kebahagiaan, hubungan, kemakmuran, dan penemuan entitas apa punlainnya sepanjang sejarah.Empat besar ini adalah beberapa perusahaan terkenal di dunia yaitu Apple, Amazon, Facebook, DanGoogle dan juga telah menyediakan ratusan ribu pekerjaan bergaji tinggi. 
+- Empat raksasa teknologi telah mencetuskan lebih banyak kebahagiaan, hubungan, kemakmuran, dan penemuan entitas apapun lainnya sepanjang sejarah.Empat besar ini adalah beberapa perusahaan terkenal di dunia yaitu Apple, Amazon, Facebook, Dan Google dan juga telah menyediakan ratusan ribu pekerjaan bergaji tinggi. 
 
 ---
 ## Empat Perusahaan Besar
@@ -28,8 +28,7 @@
 ---
 ## APPLE
 @ol
-- Apple adalah logo yang tertera di laptop gadget paling diinginkan di dunia, adalah lambang kekayaan ,pendidikan, dan nilai-nilai barat secara global. Apple memiliki dua naluriah yang pertama dekat dengan tuhan dan menjadi lebih menarik ke lawan jenis.Apple meniru agama dengan adanya sistem kepercayaan, objek pujaan, umat pengikut, dan sosok seperti kristus. Apple adalah produk rendah tapi dijual dengan harga tinggi-apple telah menjadi perusahaan paling menguntungkan dalam sejarah. 
-
+- Apple adalah logo yang tertera di laptop gadget paling diinginkan di dunia, adalah lambang kekayaan ,pendidikan, dan nilai-nilai barat secara global. Apple memiliki dua naluriah yang pertama dekat dengan tuhan dan menjadi lebih menarik ke lawan jenis.
 --- 
 ## Facebook
 @ol
