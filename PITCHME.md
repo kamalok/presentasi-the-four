@@ -10,7 +10,7 @@
 
 ## The Four 
 @ol
-- Empat raksasa teknologi telah mencetuskan lebih banyak kebahagiaan, hubungan, kemakmuran, dan penemuan entitas apa punlainnya sepanjang sejarah.Empat besar ini adalah beberapa perusahaan terkenal di dunia yaitu Apple, Amazon, Facebook, DanGoogle dan juga telah menyediakan ratusan ribu pekerjaan bergaji tinggi. 
+- Empat raksasa teknologi telah mencetuskan lebih banyak kebahagiaan, hubungan, kemakmuran, dan penemuan entitas apa punlainnya sepanjang sejarah.Empat besar ini adalah beberapa perusahaan terkenal di dunia yaitu Apple, Amazon, Facebook, DanGoogle dan juga telah menyediakan ratusan ribu pekerjaan bergaji tinggi.. 
 
 ---
 ## Empat Perusahaan Besar
