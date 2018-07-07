@@ -1,5 +1,4 @@
-# Kamal Oktaviana
-## Presentasi 
+# Presentasi 
 @ol
 - The Four (empat Besar)
 - Karya Scott Galloway
@@ -40,3 +39,5 @@
 ## Google
 @ol
 - Google ibarat dewa atau ustad pagi orang di dunia modern. Google menjadi sumber pengetahuan kita selalu ada apa yang kitacari. Google memastikan kita tahu ada dimana dan tau mau pergi kemana. Google menjawab pertanyaan dari yang remeh hingga yang mendalam. 
+---
+# Selesai
