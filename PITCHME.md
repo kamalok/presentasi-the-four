@@ -1,7 +1,7 @@
 # Presentasi 
 @ol
 - The Four (empat Besar)
-- Karya Scott Galloway
+- Karya jonan berger
 ---
 ##### Jika kalian tidak tahu gambar bukunya ini gambarnya
 ![flux explained](https://raw.githubusercontent.com/kamalok/presentasi-the-four/master/download.jpeg)
